@@ -1,21 +1,17 @@
-<div align="center">
+# Lautaro Manzo
 
-<h1>Lautaro Manzo</h1>
+Técnico Superior en Programación · UTN
 
-<p>Técnico Superior en Programación · UTN</p>
-
-<img src="https://img.shields.io/badge/Desarrollador%20Web-534AB7?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack-534AB7?style=flat-square&logoColor=white" />
+![Desarrollador Web](https://img.shields.io/badge/Desarrollador%20Web-534AB7?style=flat-square&logoColor=white)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-534AB7?style=flat-square&logoColor=white)
 
 ---
 
 ### Sobre mí
 
-Me apasiona construir aplicaciones web bien hechas, desde la base de datos hasta la interfaz.<br>
-Siempre en movimiento, buscando mejorar mi código y aprender nuevas tecnologías.<br>
+Me apasiona construir aplicaciones web bien hechas, desde la base de datos hasta la interfaz.  
+Siempre en movimiento, buscando mejorar mi código y aprender nuevas tecnologías.  
 Me motiva resolver problemas reales con soluciones simples y efectivas.
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-534AB7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-manzo/)
 
@@ -54,5 +50,3 @@ Me motiva resolver problemas reales con soluciones simples y efectivas.
 ![Vercel](https://img.shields.io/badge/Vercel-534AB7?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-534AB7?style=flat-square&logo=render&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-534AB7?style=flat-square&logo=n8n&logoColor=white)
-
-</div>
